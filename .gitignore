@@ -1,0 +1,7 @@
+# IDEs
+.vs
+
+# Carpetas/Archivos config .NET
+bin
+obj
+api-documentos.sln
