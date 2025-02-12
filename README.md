@@ -47,7 +47,7 @@ dotnet run
 ```
 📌 **Swagger UI** estará disponible en:
 ```
-https://localhost:5001/swagger
+http://localhost:5000/swagger
 ```
 
 ---
