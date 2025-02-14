@@ -10,7 +10,7 @@
 - **Procesamiento de imágenes OCR**: Subir una imagen y extraer texto legible.
 - **Validación**: Garantiza que sólo se procesan archivos válidos.
 - **Documentación Swagger**: La documentación de la API es auto-generada.
-- Pruebas unitarias**: Incluye pruebas para la extracción de texto de PDFs.
+- Pruebas unitarias**: Incluye pruebas para la extracción de texto de PDFs. (En progreso)
 
 ---
 
